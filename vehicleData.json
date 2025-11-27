@@ -8,7 +8,7 @@
       "price": "₹600 / Day",
       "image": "/images/honda-activa.png",
       "description": "Reliable and fuel-efficient scooter perfect for city commuting with smooth handling.",
-       "available": true
+       "available": false
     },
     {
       "id": 2,
@@ -161,4 +161,5 @@
        "available": true
     }
   ]
+
 }
