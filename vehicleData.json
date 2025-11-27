@@ -1,0 +1,164 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "name": "Honda Activa 4G / 5G / 6G",
+      "brand": "Honda",
+      "type": "bike",
+      "price": "₹600 / Day",
+      "image": "/images/honda-activa.png",
+      "description": "Reliable and fuel-efficient scooter perfect for city commuting with smooth handling.",
+       "available": true
+    },
+    {
+      "id": 2,
+      "name": "Ktm Duke 250",
+      "brand": "Ktm",
+      "type": "bike",
+      "price": "₹600 / Day",
+      "image": "/images/Duke-250.png",
+      "description": "Reliable and fuel-efficient scooter perfect for city commuting with smooth handling.",
+       "available": true
+    },
+       {
+     "id": 3,
+      "name": "Triumph T400",
+      "brand": "Triumph",
+      "type": "bike",
+      "price": "₹1499 / Day",
+      "image": "/images/triumph_t400.png",
+      "description": "Reliable and fuel-efficient scooter perfect for city commuting with smooth handling.",
+       "available": true
+    }, 
+    {
+      "id": 4,
+      "name": "Super Meteor 650",
+      "brand": "Royal Enfield",
+      "type": "bike",
+      "price": "₹600 / Day",
+      "image": "/images/super-meteor.png",
+      "description": "Reliable and fuel-efficient scooter perfect for city commuting with smooth handling.",
+       "available": true
+    },
+    {
+     "id": 5,
+      "name": "Honda Shine",
+      "brand": "Honda",
+      "type": "bike",
+      "price": "₹7000 / Month",
+      "image": "/images/honda-shine.png",
+      "description": "Reliable and fuel-efficient scooter perfect for city commuting with smooth handling.",
+       "available": true
+    }, 
+    {
+      "id": 6,
+      "name": "TVS NTORQ",
+      "brand": "TVS",
+      "type": "bike",
+      "price": "₹700 / Day",
+      "image": "/images/tvs_ntorq.png",
+      "description": "Reliable and fuel-efficient scooter perfect for city commuting with smooth handling.",
+       "available": true
+    },
+    {
+      "id": 7,
+      "name": "Piaggio Vespa",
+      "brand": "Piaggio",
+      "type": "bike",
+      "price": "₹5000 / Month",
+      "image": "/images/vespa.png",
+      "description": "Reliable and fuel-efficient scooter perfect for city commuting with smooth handling.",
+       "available": true
+    },
+    {
+      "id": 8,
+      "name": "OLA S1",
+      "brand": "OLA",
+      "type": "bike",
+      "price": "₹6500 / Month",
+      "image": "/images/ola_s1.png",
+      "description": "Reliable and fuel-efficient scooter perfect for city commuting with smooth handling.",
+       "available": true
+    },
+    {
+      "id": 9,
+      "name": "TVS Wego",
+      "brand": "TVS",
+      "type": "bike",
+      "price": "₹4500 / Month",
+      "image": "/images/tvs-wego.png",
+      "description": "Reliable and fuel-efficient scooter perfect for city commuting with smooth handling.",
+       "available": true
+    },
+    {
+      "id": 10,
+      "name": "Hero Maestro",
+      "brand": "Hero",
+      "type": "bike",
+      "price": "₹4500 / Month",
+      "image": "/images/hero-maestro.png",
+      "description": "Reliable and fuel-efficient scooter perfect for city commuting with smooth handling.",
+       "available": true
+    },
+    {
+      "id": 11,
+      "name": "Mahindra Thar",
+      "brand": "Mahindra",
+      "type": "car",
+      "price": "₹3999 / Day",
+      "image": "/images/mahindra_thar.png",
+      "description": "Premium SUV with exceptional off-road capabilities, luxurious interior and advanced technology.",
+       "available": true
+    },
+    {
+      "id": 12,
+      "name": "Renault Kiger",
+      "brand": "Renault",
+      "type": "car",
+      "price": "₹2999 / Day",
+      "image": "/images/renault-kiger.png",
+      "description": "Luxury sedan with cutting-edge technology, premium comfort and powerful performance.",
+       "available": true
+    },
+    {
+      "id": 13,
+      "name": "Swift MT",
+      "brand": "Maruti Suzuki",
+      "type": "car",
+      "price": "₹2499 / Day",
+      "image": "/images/maruti_swift.png",
+      "description": "Iconic cruiser bike with thumping engine sound and classic styling.",
+       "available": true
+    },
+    {
+      "id": 14,
+      "name": "Skoda kylaq",
+      "brand": "Skoda",
+      "type": "car",
+      "price": "₹3499 / Day",
+      "image": "/images/skoda-kylaq.png",
+      "description": "Ultimate luxury sedan with cutting-edge technology and unparalleled comfort.",
+       "available": true
+    },
+    {
+      "id": 15,
+      "name": "Hyundai Creta",
+      "brand": "Hyundai",
+      "type": "car",
+      "price": "₹3499 / Day",
+      "image": "/images/hyundai-creta.png",
+      "description": "Sporty naked bike with aggressive styling and excellent performance.",
+       "available": true
+    },
+    {
+      "id": 16,
+      "name": "Seltos Facelift",
+      "brand": "Kia",
+      "type": "car",
+      "price": "₹2499 / Day",
+      "image": "/images/kia-seltos-facelift.png",
+      "description": "Iconic cruiser bike with thumping engine sound and classic styling.",
+       "available": true
+    }
+  ]
+}
